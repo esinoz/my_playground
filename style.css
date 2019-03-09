@@ -1,0 +1,51 @@
+/*font-family: 'Lora', serif;*/
+
+h1 {font-family: 'Lora', serif;
+color: 00a8b5}
+
+h2{color: 00a8b5}
+
+p{font-family: 'Merriweather', serif;
+color:34699a;}
+
+body{text-align:center;}
+
+a {text-decoration: none;
+	color: white;
+  }
+
+#banner {background-image: url("https://picsum.photos/200/300/?image=517");
+         background-size: cover;
+         padding: 150px;
+         text-align: center;
+
+}
+
+#banner p {
+  color: white;
+  font-size:20px;
+ 
+}
+
+.card {
+       padding:40px;
+       background-color: #cbf1f5;
+       margin: 5px;
+      }
+
+
+.btn {background-color:pink;
+      margin-top: -100px;}
+
+.fab{size:40px;}
+
+
+#footer p {color:white;}
+
+#footer a {
+  font-size: 20px;
+}
+
+#footer {background-color: pink;
+         padding:50px;
+     }
